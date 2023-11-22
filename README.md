@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioosa&label=Profile%20views&color=0e75b6&style=flat" alt="marioosa" /> </p>
 
-- 🌱 I’m currently learning **Frameworks (Django, React, Angular)**
+- 🌱 I’m currently learning: **Frameworks (Django, React, Angular)**
 
-- 💬 Preguntame sobre: **HTML, CSS , JavaScript, Python, Java, Bootstrap**
+- 💬 Ask me about: **HTML, CSS , JavaScript, Python, Java, Bootstrap**
 
-- 📫 Contáctame **mario.sa2104@gmail.com**
+- 📫 Contact me: **mario.sa2104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
