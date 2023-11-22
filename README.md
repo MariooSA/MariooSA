@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, me llamo: Mario Santana</h1>
-<h3 align="center">full-stack developer</h3>
+## 🚀 About Me
+I'm a full stack developer in progress...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioosa&label=Profile%20views&color=0e75b6&style=flat" alt="marioosa" /> </p>
 
